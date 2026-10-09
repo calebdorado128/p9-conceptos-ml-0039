@@ -1,3 +1,4 @@
+# Caleb Dorado NC = 0039
 import pandas as pd
 print(pd.__version__)
 
@@ -22,3 +23,5 @@ print(X.head(2))
 
 print("\n--- VARIABLE OBJETIVO (TARGET - y) ---")
 print(y.head(2))
+
+print("Hecho por Caleb Dorado NC = 0039")
